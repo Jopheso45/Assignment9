@@ -1,0 +1,42 @@
+.top {
+    background-color: lavender;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center ;
+}
+
+.middle {
+    background-color:plum;
+    height: 250px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bottom {
+    background-color: lightgrey;
+    height: 250px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+p {
+    text-align: center;
+    display: inline-block;
+}
+
+.zelda {
+    text-align: center;
+}
